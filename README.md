@@ -14,6 +14,6 @@ I'm a Frontend Developer, Product Designer, and Software Engineering Intern at e
 - 📫 You can view my profile and contact me by emailing medlin142@gmail.com.
 
 ---
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=medinasheriff&show_icons=true&include_all_commits=true&hide_border=true" alt="medinasheriff's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medinasheriff&langs_count=8&layout=compact&hide_border=true" alt="medinasheriff's GitHub stats" /> |
 
 | ------------- | ------------- |
